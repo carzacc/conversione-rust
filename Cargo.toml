@@ -1,0 +1,8 @@
+[package]
+name = "conversione-rust"
+version = "0.1.0"
+authors = ["Carmine Zaccagnino <zaccagnino@hotmail.it>"]
+
+[dependencies]
+iron = "0.6.0"
+router = "0.6.0"
